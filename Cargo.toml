@@ -16,6 +16,7 @@ rand_chacha = "0.3"
 hex = "0.4"
 prompt = { git = "https://github.com/kobigurk/zkhack-prompt" }
 blake2s_simd = "0.5.11"
+nalgebra = "0.29.0"
 
 [[bin]]
 name = "verify-bls-pedersen"
